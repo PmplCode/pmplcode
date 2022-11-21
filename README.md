@@ -5,11 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ironhack — Semana 6| Proyecto Back-End con MongoDB, implementación API Google Maps, dailies con el…](https://medium.com/@eloipampliega/ironhack-semana-6-proyecto-back-end-con-mongodb-implementaci%C3%B3n-api-google-maps-dailies-con-el-b749e4f1c248?source=rss-43c87293b021------2)
 - [Ironhack — Semana 5| Entramos en acción con ExpressJS, Mongoose y Node.](https://medium.com/@eloipampliega/ironhack-semana-5-entramos-en-acci%C3%B3n-con-expressjs-mongoose-y-node-4b2857b74aa7?source=rss-43c87293b021------2)
 - [Ironhack — Semana 4| Empezamos Back-End con NodeJS](https://medium.com/@eloipampliega/ironhack-semana-4-empezamos-back-end-con-nodejs-5852f140d90c?source=rss-43c87293b021------2)
 - [Semana 3 Ironhack | A practicar se ha dicho + Presentación Juego!](https://medium.com/@eloipampliega/semana-3-ironhack-a-practicar-se-ha-dicho-presentaci%C3%B3n-juego-c01734de515e?source=rss-43c87293b021------2)
 - [Ironhack — Semana 2| Se empiezan a complicar las cosas](https://medium.com/@eloipampliega/ironhack-semana-2-se-empiezan-a-complicar-las-cosas-bdecb7666300?source=rss-43c87293b021------2)
-- [Ironhack —  Semana 1 | El inicio de la maratón de programación](https://medium.com/@eloipampliega/ironhack-semana-1-el-inicio-de-la-marat%C3%B3n-de-programaci%C3%B3n-ec03d823c322?source=rss-43c87293b021------2)
 <!-- BLOG-POST-LIST:END -->
 
 
