@@ -1,3 +1,4 @@
+<base target="_blank">
 <h1 align="center">Hi 👋, I'm Eloi Pampliega</h1>
 <h3 align="center">A passionate full-stack web developer from Barcelona</h3>
 
