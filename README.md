@@ -24,9 +24,12 @@
 Our project is a plan and event management web application where users can create and share plans with their friends. 
 As a user, you will be able to create plans, invite your friends to join them, manage the status of the plan (if it is confirmed or pending) and see who has confirmed or declined attendance. 
 In addition, you will be able to vote in surveys created by other users and access many more features.<br />
+Try it out with the following credentials:<br />
+Username: Recruiter<br />
+Password: Recruiter123<br />
 Developed with: JavaScript, React, Node, Express, MongoDB, Bootstrap, API REST, Postman.  (check the repo <a href="https://github.com/PmplCode/DPlan-front">here</a>).
 
-### Viaje a marte (still under construction)
+### Viaje a marte (under development)
 
 <a href="https://pmplcode.github.io/FlightRadar-API-LeafLet/"><img src="./pictures/Captura de pantalla 2023-01-18 151507.png" alt="Viaje a Marte" /></a><br />
 Combining an API that provides live flight information with the LeafLet map to display the current location and details of each flight.<br />
