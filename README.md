@@ -20,7 +20,7 @@
 
 ### DPLAN - MANAGE EVENTS EASILY
 
-<a href="https://famous-brioche-240d75.netlify.app/"><img src="./pictures/Captura de pantalla 2023-01-11 234539.png" alt="DPLAN LANDING PAGE" /></a><br />
+<a href="https://famous-brioche-240d75.netlify.app/" target="_blank"><img src="./pictures/Captura de pantalla 2023-01-11 234539.png" alt="DPLAN LANDING PAGE" /></a><br />
 Our project is a plan and event management web application where users can create and share plans with their friends. 
 As a user, you will be able to create plans, invite your friends to join them, manage the status of the plan (if it is confirmed or pending) and see who has confirmed or declined attendance. 
 In addition, you will be able to vote in surveys created by other users and access many more features.<br />
@@ -31,13 +31,13 @@ Developed with: JavaScript, React, Node, Express, MongoDB, Bootstrap, API REST, 
 
 ### Viaje a marte (under development)
 
-<a href="https://pmplcode.github.io/FlightRadar-API-LeafLet/"><img src="./pictures/Captura de pantalla 2023-01-18 151507.png" alt="Viaje a Marte" /></a><br />
+<a href="https://pmplcode.github.io/FlightRadar-API-LeafLet/" target="_blank"><img src="./pictures/Captura de pantalla 2023-01-18 151507.png" alt="Viaje a Marte" /></a><br />
 Combining an API that provides live flight information with the LeafLet map to display the current location and details of each flight.<br />
 Developed with: JavaScript, API REST, LEAFLET, HTML, CSS (check the repo <a href="https://github.com/PmplCode/FlightRadar-API-LeafLet">here</a>).
 
 ### Cocteleria
 
-<a href="https://cocteleria.herokuapp.com/"><img src="./pictures/cocteleria.png" alt="Cocteleria" /></a><br />
+<a href="https://colorful-twill-deer.cyclic.app/" target="_blank"><img src="./pictures/cocteleria.png" alt="Cocteleria" /></a><br />
 Is a social media application where you can find all kinds of cocktails from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, Node, Express & MongoDB (check the repo <a href="https://github.com/AndreaAlarcon99/Proyecto-de-BackEnd/tree/main/cocteleria">here</a>).
 
