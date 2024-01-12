@@ -1,7 +1,10 @@
 <base target="_blank">
-<h1 align="center">Hi 👋, I'm Eloi Pampliega</h1>
-<h3 align="center">A passionate full-stack web developer from Barcelona</h3>
-<h3 align="center">1+ years of professinal experience as a Frontend dev.</h3>
+<h1 align="center">Hi there! 👋</h1>
+
+<h3 align="center">I'm Eloi Pampliega, a full-stack web developer based in Barcelona.</h3>
+
+<h3 align="center">Over 1 year of professional experience, with a passion for frontend development.</h3>
+
 
 - 🎨 Frontend developer at @Crowd
 
