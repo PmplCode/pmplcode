@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm Eloi Pampliega, a full-stack web developer based in Barcelona.</h3>
 
-<h3 align="center">Over 2 year of professional experience, with a passion for frontend development.</h3>
+<h3 align="center">Over 3 year of professional experience, with a passion for frontend development.</h3>
 
 
 - 🎨 Frontend developer at @Crowd
