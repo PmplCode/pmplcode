@@ -6,8 +6,6 @@
 <h3 align="center">Over 3 year of professional experience, with a passion for frontend development.</h3>
 
 
-- 🎨 Frontend developer at @Crowd
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Mi visión sobre la IA como nuevo desarrollador en el sector](https://medium.com/@eloipampliega/mi-visi%C3%B3n-sobre-la-ia-como-nuevo-desarrollador-en-el-sector-3b5ba17aa81d?source=rss-43c87293b021------2)
